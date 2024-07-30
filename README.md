@@ -1,4 +1,4 @@
-# git-examples
+# git-examples demo
 Learn git by examples
 
 ## added using git bash
